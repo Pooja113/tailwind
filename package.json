@@ -1,7 +1,22 @@
 {
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "vite"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja113/tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja113/tailwind/issues"
+  },
+  "homepage": "https://github.com/Pooja113/tailwind#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.5",
     "postcss": "^8.4.12",
@@ -9,11 +24,5 @@
   },
   "dependencies": {
     "vite": "^2.9.5"
-  },
-  "name": "tailwind",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Pooja Paul",
-  "license": "ISC",
-  "description": ""
+  }
 }
